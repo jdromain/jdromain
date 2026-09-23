@@ -2,11 +2,8 @@
 ---
  Email: jamesromain@rezovoai.com
  linkedIn: link
- 
- I am a Finance and Economics major turned STEM and I am truly passionate about a career in data science. I am also an entrepreneur and am building
- Rezovo AI with my colleague to provide an exceptional user experience with automated booking and purchases over the phone. We are currently 
- searching for businesses to partner with in the GTA
 ---
+ I am a Finance and Economics major turned STEM and I am truly passionate about a career in data science. I am also an entrepreneur and am building Rezovo AI with my colleague to provide an exceptional user experience with automated booking and purchases over the phone. We are currently searching for businesses to partner with in the GTA
 
 ###🔭 I’m currently ...
 
